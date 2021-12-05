@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**IkemefunaEke/IkemefunaEke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:wave: My name is Ikemefuna Eke, i'm 22 and I am currently pursuing a Bachelor's Degree in Computer Engineering. 
+I dream to one day be a Front-end Developer in a large Corporation.
 
-Here are some ideas to get you started:
+I have experience with Java, C++, Python and C# epecially in unitu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on other websites , Java and Python projects
+- 🌱 I’m currently learning Django
+- 👯 I’m looking to collaborate on any project in the range of languages I have mentioned above.
+- 🤔 I’m looking for help with tricks and tips to improve web development and general coding
+- 💬 Ask me about Python
+- 📫 How to reach me: ekeikemefuna@gmail.com and https://www.linkedin.com/in/ikemefuna-eke-77a3151a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bi1Xi%2BamSRtWd%2FgfJ2ekS9Q%3D%3D
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love going to the gym and working out
 -->
