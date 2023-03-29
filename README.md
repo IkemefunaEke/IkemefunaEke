@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:wave: My name is Ikemefuna Eke, i'm 22 and I am currently pursuing a Bachelor's Degree in Computer Engineering. 
+:wave: My name is Ikemefuna Eke, i'm 23 and I am currently pursuing a Bachelor's Degree in Computer Engineering. 
 I dream to one day be a Front-end Developer in a large Corporation.
 
 I have experience with React, Javascript, Python, CSS and HTML.
