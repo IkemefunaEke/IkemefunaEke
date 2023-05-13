@@ -9,7 +9,7 @@ I have experience with React, Javascript, CSS and HTML.
 - 🌱 I’m currently learning Redux.
 - 👯 I’m looking to collaborate on any project in the range of languages I have mentioned above.
 - 🤔 I’m looking for help with tricks and tips to improve web development and general coding
-- 💬 Ask me about Python
+- 💬 Ask me about CSS, ES6 JavaScript
 - 📫 How to reach me: ekeikemefuna@gmail.com and https://www.linkedin.com/in/ikemefuna-eke-77a3151a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bi1Xi%2BamSRtWd%2FgfJ2ekS9Q%3D%3D and
 https://ikemefunaekeportfolio.netlify.app/
 - 😄 Pronouns: He/Him
